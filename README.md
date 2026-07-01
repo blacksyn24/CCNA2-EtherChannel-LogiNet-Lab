@@ -53,11 +53,8 @@ PC8 ──Fa0/4──┤                    ├──Fa0/4──PC10
                2 liens = 200 Mbps
 ```
 
-<p align="center">
-  <img src="images/topologie.png" width="800">
-  <br>
-  <em>Capture Cisco Packet Tracer — Topologie LogiNet</em>
-</p>
+<img width="1920" height="1080" alt="Capture d’écran du 2026-07-01 12-51-22" src="https://github.com/user-attachments/assets/befe41dd-c2df-494f-9465-8b990e0889f7" />
+
 
 ---
 
